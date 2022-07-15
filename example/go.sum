@@ -2,3 +2,5 @@ github.com/dinofei/gomod/a v0.0.0-20220715034843-8fdd61e3c1c3 h1:HIMAiMuYbySDkpi
 github.com/dinofei/gomod/a v0.0.0-20220715034843-8fdd61e3c1c3/go.mod h1:hm6JxZmMrXhgUF61nLkcZU3BPDDdjhhrhMc0V2gRHFM=
 github.com/dinofei/gomod/a v0.1.0 h1:Ooni3P+bQxFDxXcqicGUDfzSq5G+JfrBMn+JJV/rfd0=
 github.com/dinofei/gomod/a v0.1.0/go.mod h1:hm6JxZmMrXhgUF61nLkcZU3BPDDdjhhrhMc0V2gRHFM=
+github.com/dinofei/gomod/a/v2 v2.0.0 h1:R3ZYzT3oX+iGKp9vHXXsyKd9W6J6IVA/IaC2vuuhwHM=
+github.com/dinofei/gomod/a/v2 v2.0.0/go.mod h1:YjRT7yFxsHs3dL84sm/gzzwnnynXrdGsvXl2MpLAKh0=
